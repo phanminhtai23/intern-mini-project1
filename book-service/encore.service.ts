@@ -4,4 +4,4 @@ import { Service } from "encore.dev/service";
 // https://encore.dev/docs/ts/primitives/services
 
 // hello service responds to requests with a personalized greeting.
-export default new Service("hello");
+export default new Service("book-service");

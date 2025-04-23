@@ -10,11 +10,13 @@
   },
   "devDependencies": {
     "@types/node": "^20.5.7",
+    "@types/node-fetch": "^2.6.4",
     "typescript": "^5.2.2",
     "vitest": "^1.5.0"
   },
   "dependencies": {
-    "encore.dev": "^1.46.20"
+    "encore.dev": "^1.46.20",
+    "node-fetch": "^2.6.9"
   },
   "optionalDependencies": {
     "@rollup/rollup-linux-x64-gnu": "^4.13.0"
